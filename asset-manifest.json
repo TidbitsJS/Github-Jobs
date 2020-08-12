@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Github-Jobs/static/css/main.dc15ec67.chunk.css",
+    "main.js": "/Github-Jobs/static/js/main.2401f5be.chunk.js",
+    "main.js.map": "/Github-Jobs/static/js/main.2401f5be.chunk.js.map",
+    "runtime-main.js": "/Github-Jobs/static/js/runtime-main.156afc36.js",
+    "runtime-main.js.map": "/Github-Jobs/static/js/runtime-main.156afc36.js.map",
+    "static/js/2.11ecc17f.chunk.js": "/Github-Jobs/static/js/2.11ecc17f.chunk.js",
+    "static/js/2.11ecc17f.chunk.js.map": "/Github-Jobs/static/js/2.11ecc17f.chunk.js.map",
+    "index.html": "/Github-Jobs/index.html",
+    "precache-manifest.36190637f5f50910c5b6637fc93909ad.js": "/Github-Jobs/precache-manifest.36190637f5f50910c5b6637fc93909ad.js",
+    "service-worker.js": "/Github-Jobs/service-worker.js",
+    "static/css/main.dc15ec67.chunk.css.map": "/Github-Jobs/static/css/main.dc15ec67.chunk.css.map",
+    "static/js/2.11ecc17f.chunk.js.LICENSE.txt": "/Github-Jobs/static/js/2.11ecc17f.chunk.js.LICENSE.txt",
+    "static/media/error.png": "/Github-Jobs/static/media/error.cb222a84.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.156afc36.js",
+    "static/js/2.11ecc17f.chunk.js",
+    "static/css/main.dc15ec67.chunk.css",
+    "static/js/main.2401f5be.chunk.js"
+  ]
+}
